@@ -12,3 +12,5 @@ chmod +x docker_dli_run.sh
 ./docker_dli_run.sh
 # Training
 dataset 50 pictures of each letter, trained for 15 epoches
+# Trained Model
+https://drive.google.com/file/d/1zHQxq8wVILHUwY87mY4hjahm5yUZ1Suz/view?usp=sharing
